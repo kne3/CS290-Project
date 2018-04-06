@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "56996379493",
+    "firebase_url": "https://the-fitness.firebaseio.com",
+    "project_id": "the-fitness",
+    "storage_bucket": "the-fitness.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56996379493:android:87fcb66cc6ca320a",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56996379493-uss5pvfcu47qvhp5td1qgd884pqe6tk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZKu0eXt-n6ETu99yXC68uq-fGtaLu6YI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
