@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CS290-Project.iml" filepath="$PROJECT_DIR$/CS290-Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/auth.iml" filepath="$PROJECT_DIR$/auth.iml" />
     </modules>
   </component>
 </project>
